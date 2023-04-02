@@ -21,7 +21,7 @@
 title: alizard's blog
 email: lizbizcontact@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my site where I post about my doings on the github.
+  Welcome to the blog section of my website.
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://alizardguy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 website: https://alizardguy.github.io
