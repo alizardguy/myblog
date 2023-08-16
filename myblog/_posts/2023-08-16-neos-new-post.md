@@ -20,4 +20,4 @@ The idea of a crypto connected gamification element is something unlike anything
 
 # My Takeaway
 
-I picked up NeosVR in 2020 during the pandemic, I was not mentally in a good place and this game was strongly responsible for reigniting my passion to create things. The Neos community is the first community I have ever felt at home online. While I could go through the whitepaper line by line, I really feel no need to as people smarter than me already have. I feel sadness for what we are leaving behind, but I am excited about what is ahead. 
+I picked up NeosVR in 2020 during the pandemic, I was not mentally in a good place and this game was strongly responsible for reigniting my passion to create things. The Neos community is the first community I have ever felt at home online. While I could go through the whitepaper line by line, I feel no need to as people smarter than me already have. I feel sadness for what we are leaving behind, but I am excited about what is ahead. I resent Karel for what they have done to the community, but I do feel that we have a clear path forward and will be able to recover from this.
