@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "up and running!"
+title:  "up and Running!"
 date:   2022-11-04 16:39:44 -0700
 categories: meta jekyll
 ---

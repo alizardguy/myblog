@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "paywalling twitter"
+title:  "Paywalling Twitter"
 date:   2023-03-27 16:39:44 -0700
 categories: meta jekyll
 ---

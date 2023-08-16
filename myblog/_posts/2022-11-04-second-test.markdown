@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "timezones are funky"
+title:  "Timezones Are Funky"
 date:   2022-11-04 17:15:01 -0700
 categories: meta test jekyll
 ---
