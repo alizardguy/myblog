@@ -10,7 +10,10 @@ On August 14th, 2023 the @neos_vr account on Twitter.com released a new [post](h
 
 # Stardust
 
-The linked whitepaper under the “Neos Credits” section of neos.com states “Stardust is a Neos-wide, mild gamification element. Through mining random meteor strikes, users can earn a higher Stardust Rank. Initially meteor strikes will be happening only in selected worlds.“ under the “staking process” section. The idea of a crypto connected gamification element is something unlike anything we have ever seen in Neos and is hard to even conceptualize how it could securely function. While I could debate on the fact that “mild gamification” makes no sense due to gamification being a binary, I personally feel that this gamification element already being so far removed from the formula of Neos is a cause for concern.
+The linked whitepaper under the “Neos Credits” section of neos.com states “Stardust is a Neos-wide, mild gamification element. Through mining random meteor strikes, users can earn a higher Stardust Rank. Initially meteor strikes will be happening only in selected worlds.“ under the “staking process” section. 
+
+
+The idea of a crypto connected gamification element is something unlike anything we have ever seen in Neos and is hard to even conceptualize how it could securely function. While I could debate on the fact that “mild gamification” makes no sense due to gamification being a binary, I personally feel that this gamification element already being so far removed from the formula of Neos is a cause for concern.
 
 
 ![Stardust ranks](https://alizardguy.github.io/myblog/assets/images/neosvr/stardust-ranks.png)
